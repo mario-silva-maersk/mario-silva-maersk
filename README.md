@@ -3,15 +3,15 @@
 
 ## I'm Frontend Engineer In 🚀  Adoption/Growth Hacking at A.P. Moller - Maersk 
 
-<div alig="left">
+<img align="center" alt="GIF" src="https://media3.giphy.com/media/3o7qE4dVtT4Hci3f20/giphy.gif" />
+
 - Based in Copenhagen - DK
 - A strong believer in data-driven decision making 🚀 
 - 🔭 I’m currently working on GTM to inject new experiments
 - Hacking your project to achieve more results 👾
 - 🥅 2021 Goals: Contribute more to the community of developers and create a lot of experiments
-</div> 
 <br />
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/3o7qE4dVtT4Hci3f20/giphy.gif" />
+
 
 
 ### Connect with me:
