@@ -3,11 +3,13 @@
 
 ## I'm Frontend Engineer In 🚀  Adoption/Growth Hacking at A.P. Moller - Maersk 
 
+<div alig="left">
 - Based in Copenhagen - DK
 - A strong believer in data-driven decision making 🚀 
 - 🔭 I’m currently working on GTM to inject new experiments
 - Hacking your project to achieve more results 👾
 - 🥅 2021 Goals: Contribute more to the community of developers and create a lot of experiments
+</div> 
 <br />
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/3o7qE4dVtT4Hci3f20/giphy.gif" />
 
@@ -23,19 +25,19 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sass.svg" />]
-[<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />]
-[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />]
-[<img align="left" alt="Google Analytics" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleanalytics.svg" />]
-[<img align="left" alt="Google Tag Manager" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googletagmanager.svg" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sass.svg" />
+<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
+<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+<img align="left" alt="Google Analytics" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleanalytics.svg" />
+<img align="left" alt="Google Tag Manager" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googletagmanager.svg" />
 
 <br />
 <br />
