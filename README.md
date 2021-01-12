@@ -3,7 +3,7 @@
 
 ## I'm Frontend Engineer In 🚀  Adoption/Growth Hacking at A.P. Moller - Maersk 
 
-<img align="center" alt="GIF" src="https://media3.giphy.com/media/3o7qE4dVtT4Hci3f20/giphy.gif" />
+<img align="center" alt="GIF" src="https://media3.giphy.com/media/3ohzdXIKl0BjNK2g3m/giphy.gif" />
 
 - Based in Copenhagen - DK
 - A strong believer in data-driven decision making 🚀 
