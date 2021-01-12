@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on GTM to inject new experiments
 - Hacking your project to achieve more results 👾
 - 🥅 2021 Goals: Contribute more to the community of developers and create a lot of experiments
-<br />
+
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/3o7qE4dVtT4Hci3f20/giphy.gif" />
 
 
