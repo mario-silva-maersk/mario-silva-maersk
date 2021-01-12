@@ -2,13 +2,13 @@
 
 
 ## I'm Frontend Engineer In 🚀  Adoption/Growth Hacking at A.P. Moller - Maersk 
-<img align="left" alt="Maersk" width="22px" src="https://www.maersk.com/Assets_sc9/Maersk/favicon.ico?v=1" />
 
+- Based in Copenhagen - DK
 - A strong believer in data-driven decision making 🚀 
 - 🔭 I’m currently working on GTM to inject new experiments
 - Hacking your project to achieve more results 👾
 - 🥅 2021 Goals: Contribute more to the community of developers and create a lot of experiments
-
+<br />
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/3o7qE4dVtT4Hci3f20/giphy.gif" />
 
 
@@ -37,12 +37,8 @@
 [<img align="left" alt="Google Analytics" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleanalytics.svg" />]
 [<img align="left" alt="Google Tag Manager" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googletagmanager.svg" />]
 
-
-
-
 <br />
 <br />
-
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mario-silva-maersk&show_icons=true)
